@@ -29,15 +29,3 @@ Solutions are written with a focus on:
 ## Reference
 
 Problems are based on [LeetCode](https://leetcode.com/).
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0136-single-number](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0136-single-number/) | Easy |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0136-single-number](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0136-single-number/) | Easy |
-<!---LeetCode Topics End-->

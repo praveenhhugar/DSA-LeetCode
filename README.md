@@ -34,9 +34,14 @@ Problems are based on [LeetCode](https://leetcode.com/).
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->

@@ -37,6 +37,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,8 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -70,4 +71,16 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->

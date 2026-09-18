@@ -83,4 +83,8 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->

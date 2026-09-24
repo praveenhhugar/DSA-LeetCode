@@ -34,6 +34,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -50,6 +51,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |

@@ -92,4 +92,5 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [2235-add-two-integers](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->

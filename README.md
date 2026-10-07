@@ -66,6 +66,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0412-fizz-buzz](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +100,8 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 <!---LeetCode Topics End-->

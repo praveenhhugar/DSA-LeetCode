@@ -39,6 +39,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | [0169-majority-element](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -104,4 +105,8 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->

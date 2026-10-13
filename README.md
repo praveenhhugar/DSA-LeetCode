@@ -98,6 +98,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/2235-add-two-integers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |

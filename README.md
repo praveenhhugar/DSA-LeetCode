@@ -84,6 +84,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | [0032-longest-valid-parentheses](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0412-fizz-buzz](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |

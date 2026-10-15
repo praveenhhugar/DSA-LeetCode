@@ -38,6 +38,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -100,6 +101,7 @@ Problems are based on [LeetCode](https://leetcode.com/).
 | [0009-palindrome-number](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/praveenhhugar/DSA-LeetCode/tree/main/2235-add-two-integers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
